@@ -1,5 +1,3 @@
-import logging
-logging.basicConfig(filename="报错")
 class NotaRectangle(Exception):
     pass
 class NotaSquare(Exception):
